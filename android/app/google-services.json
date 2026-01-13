@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037096653732",
+    "project_id": "flutter-crud-app-00",
+    "storage_bucket": "flutter-crud-app-00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037096653732:android:bb1fcdb945a94943e26731",
+        "android_client_info": {
+          "package_name": "com.example.tugas_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYFYaAOCZ8HmvcmbxprilFhBrFRwDmi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
