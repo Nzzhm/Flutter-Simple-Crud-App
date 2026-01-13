@@ -1,16 +1,14 @@
-# tugas_crud_firebase
+# Simple CRUD menggunakan Flutter dan Firebase
 
-A new Flutter project.
+Tugas E-Learning Pemrograman Mobile 2
 
-## Getting Started
+## Berikut Screenshoot aplikasi 
 
-This project is a starting point for a Flutter application.
+1. Halaman Utama
+   Halaman utama ini menampilkan data-data yang di inputkan
+   ![Halaman Utana](Screenshoot/SS2.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Pop Up Add/Update
+   Pop Up ini berfungsi untuk menginputkan data dan mengedit data
+  ![Pop Up](Screenshoot/SS1.png)
